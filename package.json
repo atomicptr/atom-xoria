@@ -4,7 +4,7 @@
   "version": "3.0.0",
   "private": false,
   "description": "xoria256 for Atom",
-  "repository": "https://github.com/kasoki/atom-xoria",
+  "repository": "https://github.com/atomicptr/atom-xoria",
   "license": "MIT",
   "engines": {
     "atom": ">1.40.0"
